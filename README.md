@@ -117,7 +117,7 @@ PHP-Codeboot is obtainable, robust, and provides a set of scalable utilities tha
 
 ## Note 
 
-To get more insight into the work and how useful it requires you to play around with the Login and registration system that has been built using the **PHP-codeboot**. It will guide you on how to make extensive use of the min-framework and some helpers like flash messages, remember me, and et al to build your own application. 
+To get more insight into the work and how useful it requires you to play around with the Login and registration system that has been built using the **PHP-codeboot**. It will guide you on how to make extensive use of the min-framework and some helpers like flash messages, Cross site request forgery (CSRF), remember me, and et al to build your own application. 
 
 You find the test database in the [:open_file_folder:db](https://github.com/akeren/php-codeboot/tree/master/db) 
 
