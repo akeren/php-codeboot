@@ -1,0 +1,16 @@
+{
+	"name": "php/codeboot",
+	"description": "A mini-framework for PHP community",
+	"authors": [
+		{
+            "name": "Kater Akeren",
+            "email": "akeren.dev@gmail.com",
+            "role": "Software Engineer"
+        }
+    ],
+	"autoload": {
+		"psr-4": {
+			"App\\": "src/App" 
+		}
+	}
+}
